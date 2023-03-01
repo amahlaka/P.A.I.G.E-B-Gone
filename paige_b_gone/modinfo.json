@@ -1,0 +1,13 @@
+{
+    "mod_id": "paige_b_gone",
+    "author": "Amahlaka",
+    "name": "P.A.I.G.E-B-Gone",
+    "description": "Mutes P.A.I.G.E and disables FtuE ",
+    "source": "https://github.com/amahlaka/P.A.I.G.E-B-Gone",
+    "version": "0.1a",
+    "dependencies": [],
+    "ksp2_version": {
+        "min": "*",
+        "max": "*"
+    }
+}
