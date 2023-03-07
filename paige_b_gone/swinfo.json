@@ -4,7 +4,7 @@
     "name": "P.A.I.G.E-B-Gone",
     "description": "Mutes P.A.I.G.E and disables FtuE ",
     "source": "https://github.com/amahlaka/P.A.I.G.E-B-Gone",
-    "version": "0.1a",
+    "version": "1.0.0",
     "dependencies": [],
     "ksp2_version": {
         "min": "*",
