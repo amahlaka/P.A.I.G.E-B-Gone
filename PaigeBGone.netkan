@@ -1,0 +1,11 @@
+spec_version: v1.31
+identifier: PaigeBGone
+$kref: '#/ckan/github/amahlaka/P.A.I.G.E-B-Gone'
+license: MIT
+tags:
+  - plugin
+depends:
+  - name: SpaceWarp
+install:
+  - find: PaigeBGone
+    install_to: BepInEx/Plugins
